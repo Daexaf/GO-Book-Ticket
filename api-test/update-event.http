@@ -1,0 +1,10 @@
+PUT http://localhost:8080/events/1
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRhZXhhZkBleGFtcGxlLmNvbSIsImV4cCI6MTcwOTcyMzE0MiwidXNlcklkIjozfQ.qUUuNr04MvXKdUHIp2Q_1a_AakI-MR8lFij3jmEQ65Q
+
+{
+    "name" : "pala bapak kau",
+    "description" : "updated test description daexaf",
+    "location": "updated location",
+    "dateTime": "2030-02-19T15:40:00Z"
+}
